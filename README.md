@@ -1,3 +1,3 @@
-# Ejercicio 07 
-## _Login Básico Y Registro de Datos en HTML, PHP y MYSQL_
-Este proyecto permite iniciar sesión y registrar un nuevo usuario en la misma página, este ejercicio hace uso de una base de datos mediante comandos en SQL, conexión con la misma y organización mediante PHP.
+# Sistema de Autenticación Web
+## _Área: Actividades_
+Esta actividad presenta un sistema de autenticación web que permite a los usuarios registrarse y acceder a una plataforma mediante un formulario de inicio de sesión. Utiliza tecnologías web modernas para proporcionar una interfaz intuitiva y una experiencia de usuario fluida. La funcionalidad del backend se maneja a través de PHP y MySQL para gestionar la autenticación de los usuarios.
