@@ -18,7 +18,7 @@ Conexión a la Base de Datos: Utiliza un archivo externo conexion.php para estab
 
 Esta actividad demuestra habilidades en el desarrollo de sistemas de autenticación web, manejo de sesiones de usuario y conexión a bases de datos, proporcionando una base sólida para aplicaciones web seguras y eficientes.
 
-**Consulta la versión preliminar de la actividad aquí:** [https://ejercicio_07.com](https://alejandrovillegas.net/projects/exercise-07/index.html)
+**Consulta la versión preliminar de la actividad aquí:** [https://ejercicio_07.com](https://www.alejandrovillegas.dev/projects/exercise-07/index.html)
 
 # 📌 Información de la Actividad
 
@@ -30,7 +30,7 @@ Esta actividad ha sido desarrollado como parte del portafolio de soluciones tecn
 
 - **Fecha de Desarrollo**: 12 de julio de 2018
 
-- **Portafolio de Proyectos**: [www.alejandrovillegas.net](https://www.alejandrovillegas.net/)
+- **Portafolio de Proyectos**: [www.alejandrovillegas.dev](https://www.alejandrovillegas.dev)
 
 # Guía de Instalación y Configuración
 
